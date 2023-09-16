@@ -170,7 +170,7 @@ public class EjercicioUnoApplication {
 					.descuento(0)
 					.formaPago(FormaPago.EFECTIVO)
 					.total(2920)
-					.build();
+					.build(); 
 
 			//Agregar detalle al pedido
 			pedido1.agregarDetallePedido(detallePedido1);
